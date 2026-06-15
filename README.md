@@ -34,7 +34,7 @@ planning, outlet benchmarking, and customer engagement had no single source of t
 
 ---
 
-## 🔧 Approach
+## Approach
 
 - Cleaned 8,000+ records, resolving inconsistencies across product 
   attributes and outlet formats
@@ -63,7 +63,7 @@ planning, outlet benchmarking, and customer engagement had no single source of t
 
 ---
 
-## 🔍 What the Data Revealed
+## What the Data Revealed
 
 ### Newer Outlets Outperform Older Ones
 > Total Sales grew **68%** from ₹78K (2011) to ₹131K (2022) — 
